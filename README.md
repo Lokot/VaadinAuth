@@ -1,3 +1,3 @@
 VaadinAuth + Apache TomEE
 ==========
-Demo: http://vaadinauth.jelastic.servint.net
+http://habrahabr.ru/post/183550
